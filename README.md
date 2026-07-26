@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Ece Naz Daghan 👋
 
-<!--
-**EceNazDaghan/EceNazDaghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- 💻 Passionate about Software Development
+- 🐍 Learning Python, Java and C
+- 🔐 Interested in Cybersecurity
+- 🤖 Exploring Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+- Python
+- Java
+- C
+- Git
+- GitHub
+
+## 🏆 Certifications
+- Python Essentials 1 – Cisco Networking Academy
+   🔗 Verified Badge: https://www.credly.com/badges/314e2c71-da58-4358-94fb-62a223750125/public_url
+- Calculations with Vectors and Matrices - Matlab
+   🔗 Verified Badge: https://drive.google.com/file/d/1t5YPn1fZnD6l2nt_aYBx1H6bD5kVf8HE/view
+
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/ece-naz-daghan-839592400
