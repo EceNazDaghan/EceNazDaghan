@@ -12,8 +12,6 @@
 - Python
 - Java
 - C
-- Git
-- GitHub
 
 ## 🏆 Certifications
 - Python Essentials 1 – Cisco Networking Academy
