@@ -5,7 +5,6 @@
 ## 👩‍💻 About Me
 - 💻 Passionate about Software Development
 - 🐍 Learning Python, Java and C
-- 🔐 Interested in Cybersecurity
 - 🤖 Exploring Artificial Intelligence
 
 ## 🛠️ Technologies
