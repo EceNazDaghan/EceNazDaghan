@@ -4,12 +4,11 @@
 
 ## 👩‍💻 About Me
 - 💻 Passionate about Software Development
-- 🐍 Learning Python, Java and C
+- 🐍 Learning Python and C
 - 🤖 Exploring Artificial Intelligence
 
 ## 🛠️ Technologies
 - Python
-- Java
 - C
 
 ## 🏆 Certifications
